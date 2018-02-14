@@ -17,7 +17,7 @@ To execute:
 ##################################
 NOTE:
 1. The testing data should be bicubic enlarged version of the original down-sampled version. For example, to generate x4 super-resolution results, the original x4 down-sampled low-resolution image should first be enlarged to x4 size, then fed the enlarged version to DWSR (as described in the fact sheet). Use generateTestX4.m to generate enlarged LR luminance image.
-2. The DWSR wrights are stored at: ./Weightx4
+2. The DWSR weights are stored at: ./Weightx4
 3. The DWSR model is defined in: netx4.py
 4. The script is NOT for training.
 ###################################
