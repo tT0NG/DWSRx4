@@ -1,7 +1,7 @@
 These executable files are made for:
 ## NTIRE 2017 Super-Resolution Challenge - DWSRx4
 
-### Other scale: [DWSRx2](https://github.com/tT0NG/WvSRx2) [DWSRx2](https://github.com/tT0NG/WvSRx3)
+### Other scale: [DWSRx2](https://github.com/tT0NG/WvSRx2);  [DWSRx2](https://github.com/tT0NG/WvSRx3)
 
 ### Pre-requirement
 Python package requirement:
@@ -22,6 +22,7 @@ Python package requirement:
 2. The DWSR weights are stored at: `./Weightx4`
 3. The DWSR model is defined in: `netx4.py`
 4. The script is *NOT* for training.
+
 
 _The training code is not fully cleaned up; for academic purpose, please request training from [here](https://drive.google.com/drive/folders/0B_FEGhHunA5gR1Y1WVFxTGkxd1E) by providing basic usage information._
 ____________
