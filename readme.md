@@ -1,6 +1,5 @@
-These executable files are made for:
 ## NTIRE 2017 Super-Resolution Challenge - DWSRx4
-The testing code for _Deep wavelet prediction for image super-resolution, CVPRW, 2017_.
+The testing code for [_Deep wavelet prediction for image super-resolution, CVPRW, 2017_](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.html).
 
 ### Other scale: [DWSRx2](https://github.com/tT0NG/DWSRx2);  [DWSRx3](https://github.com/tT0NG/DWSRx3)
 
