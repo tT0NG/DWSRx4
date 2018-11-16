@@ -1,6 +1,5 @@
-#################################
 The executable files for:
-NTIRE 2017 Super-Resolution Challenge - Track 1: Bicubic downscaling - x4
+** NTIRE 2017 Super-Resolution Challenge - Track 1: Bicubic downscaling - x4
 #################################
 Language: python 2.7
 Python package requirement:
