@@ -1,7 +1,7 @@
 These executable files are made for:
 ## NTIRE 2017 Super-Resolution Challenge - DWSRx4
 
-### Other scale: [DWSRx2](https://github.com/tT0NG/WvSRx2);  [DWSRx2](https://github.com/tT0NG/WvSRx3)
+### Other scale: [DWSRx2](https://github.com/tT0NG/DWSRx2);  [DWSRx3](https://github.com/tT0NG/DWSRx3)
 
 ### Pre-requirement
 Python package requirement:
@@ -18,7 +18,7 @@ Python package requirement:
 5. Run `FinalColorSRx4.m` to generate final color SR and store the results in `./Resultx4Color`
 
 ### NOTE:
-1. The testing data should be bicubic enlarged version of the original down-sampled version. For example, to generate x4 super-resolution results, the original x4 down-sampled low-resolution image should first be enlarged to x4 size, then fed the enlarged version to DWSR (as described in the fact sheet). Use generateTestX4.m to generate enlarged LR luminance image.
+1. The testing data should be bicubic enlarged version of the original down-sampled version. For example, to generate `x4` super-resolution results, the original `x4` down-sampled low-resolution image should first be enlarged to `x4` size, then fed the enlarged version to DWSR (as described in the fact sheet). Use `generateTestX4.m` to generate enlarged LR luminance image.
 2. The DWSR weights are stored at: `./Weightx4`
 3. The DWSR model is defined in: `netx4.py`
 4. The script is *NOT* for training.
