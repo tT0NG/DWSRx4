@@ -25,5 +25,25 @@ Python package requirement:
 
 
 _The training code is not fully cleaned up; for academic purpose, please request training from [here](https://drive.google.com/drive/folders/0B_FEGhHunA5gR1Y1WVFxTGkxd1E) by providing basic usage information._
+
+### Cite us
+```
+@inproceedings{guo2017deep,
+  title={Deep wavelet prediction for image super-resolution},
+  author={Guo, Tiantong and Mousavi, Hojjat Seyed and Vu, Tiep Huu and Monga, Vishal},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year={2017}
+}
+```
+```
+@inproceedings{timofte2017ntire,
+  title={Ntire 2017 challenge on single image super-resolution: Methods and results},
+  author={Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei and Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu and others},
+  booktitle={Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on},
+  pages={1110--1121},
+  year={2017},
+  organization={IEEE}
+}
+```
 ____________
 Tiantong@iPAL2017, tong.renly@gmail.com
