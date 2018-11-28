@@ -24,7 +24,7 @@ Python package requirement:
 4. The script is *NOT* for training.
 
 
-_The training code is not fully cleaned up; for academic purpose, please request training from [here](https://docs.google.com/forms/d/e/1FAIpQLScYcA_MZ2J5SWIdjxxDEEVJZ9nKAio9Yu2iIdSlxTBXDDe0MA/viewform) by providing basic usage information._
+_The training code is not fully cleaned up; for academic purpose, please request training from [here](https://goo.gl/forms/kq8Qxu2t3yrHGGq62) by providing basic usage information._
 
 ### Cite us
 ```
